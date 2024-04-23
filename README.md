@@ -20,12 +20,9 @@ This is a registration and login web application where users can register, log i
 1. **Clone the Repository**
 
    Clone the repository using the following command:
----
+```
 git clone https://github.com/MaciejBabicki/Rejestration-LoginApplication.git
-
----
-markdown
-Copy code
+```
 
 2. **Configure Your Environment**
 
@@ -34,16 +31,14 @@ Ensure you have Java installed on your system.
 3. **Build and Run**
 
 Navigate to the project directory and build the application using Maven:
+```
 mvn clean install
-
-arduino
-Copy code
+```
 
 Then, run the application using:
+```
 mvn spring-boot:run
-
-csharp
-Copy code
+```
 
 The application will start running on http://localhost:8080.
 
