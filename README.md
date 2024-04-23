@@ -22,6 +22,7 @@ This is a registration and login web application where users can register, log i
    Clone the repository using the following command:
 ---
 git clone https://github.com/MaciejBabicki/Rejestration-LoginApplication.git
+
 ---
 markdown
 Copy code
