@@ -1,6 +1,6 @@
 **General Info**
 
-This is a registration and login web application where users can register, log in, and perform various authentication-related tasks. The application is built using Java and Spring Boot framework.
+A web application providing user registration, login, and authentication functionality. Built with Java and Spring Boot, leveraging Spring Security for robust authentication and authorization, including password encryption, user roles, and email verification for new accounts. Developed RESTful APIs for user management and secured endpoints. 
 
 **Technologies Used:**
 
